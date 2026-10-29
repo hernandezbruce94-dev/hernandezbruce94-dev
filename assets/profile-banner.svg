@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Bruce L. Hernandez — Configured? Prove It.</title><desc id="desc">Dark navy header with teal accents. Practical cybersecurity, control verification, and evidence. Define, test, record.</desc>
+<rect width="1200" height="320" rx="20" fill="#101d30"/>
+<path d="M880 0h320v320H880z" fill="#152b41"/>
+<path d="M920 58h190M920 108h150M920 158h190M920 208h130M920 258h190" stroke="#2a4860" stroke-width="2"/>
+<rect x="48" y="46" width="56" height="6" rx="3" fill="#49dfc4"/>
+<text x="48" y="102" font-family="Arial,sans-serif" font-size="25" fill="#b5c9dc">BRUCE L. HERNANDEZ</text>
+<text x="48" y="171" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#ffffff">Configured? Prove It.</text>
+<text x="48" y="219" font-family="Arial,sans-serif" font-size="23" fill="#b5c9dc">Practical cybersecurity. Control verification. Evidence.</text>
+<text x="48" y="274" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#49dfc4">DEFINE  /  TEST  /  RECORD</text>
+<circle cx="1016" cy="158" r="56" fill="#101d30" stroke="#49dfc4" stroke-width="3"/>
+<path d="m990 159 18 18 36-40" stroke="#49dfc4" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
