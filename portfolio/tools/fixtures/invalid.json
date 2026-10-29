@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "SYN-002",
+      "control": "Document ownership",
+      "scope": "Fictional service / synthetic dataset",
+      "owner": "",
+      "expected": "Cross-account read denied",
+      "observed": "Synthetic example states denial; no real request was run",
+      "evidence_ref": "synthetic:case-001",
+      "tested_at": "2026-10-28T12:00:00Z",
+      "review_due": "2026-10-01T12:00:00Z",
+      "result": "pass",
+      "evidence_kind": "synthetic"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Local verification — October 29, 2026
+Environment: Bruce's Windows workspace; existing Node.js runtime (version recorded in task log).
+Command: node --test evidence-check.test.mjs
+Actual result: 12 tests, 12 pass, 0 fail, 0 skipped.
+Coverage: valid synthetic index; missing owner; duplicate trimmed IDs; impossible date; missing timezone; future observation; overdue review; review before observation; empty/malformed root; unknown result/kind; null record; CLI success/findings/input error exit codes.
+The CLI tests spawned the local checker with fixed check time 2026-10-29T12:00:00Z and synthetic valid/invalid fixtures.
+No network calls, cloud operations, production evidence, or actual security-control tests were performed.
+These results support the tested offline behaviors only, not production readiness, security certification, or deployment of the portfolio designs.

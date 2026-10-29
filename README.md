@@ -6,6 +6,12 @@ I write about turning security requirements into working controls—and keeping 
 
 **Configured? Prove It.** is the question behind the work here: what should a control allow, what should it deny, and what evidence shows the decision?
 
+## Security engineering & architecture portfolio
+
+[Explore the portfolio](portfolio/README.md): a complete architecture study, eight practical guides, four proposed project concepts, reusable templates, and a locally tested offline evidence-index checker. Includes an interview walkthrough and explicit evidence labels.
+
+These are collaboratively drafted educational designs and synthetic demonstrations; implementation status and authorship context are documented in the portfolio.
+
 ## Start with a working question
 
 | If you want to… | Start here |

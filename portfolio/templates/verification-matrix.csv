@@ -1,0 +1,4 @@
+case_id,requirement,scope,preconditions,action,expected,observed,evidence_ref,tested_at,status
+V-001,Read assigned document,Fictional lab,User A owns document A,Read document A,Allowed,,,,Planned
+V-002,Deny cross-account read,Fictional lab,User B does not own document A,User B reads document A,Denied with correlated decision evidence,,,,Planned
+V-003,Bound job retries,Fictional lab,Disposable queue with synthetic job,Submit known rejected job,Retries bounded and operator notified,,,,Planned

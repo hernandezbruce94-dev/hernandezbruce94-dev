@@ -1,0 +1,3 @@
+threat_id,asset_or_flow,trust_boundary,threat,impact,proposed_mitigation,verification_case,owner,status,residual_risk
+T-001,Synthetic document read,User to API,Cross-account read,Unauthorized disclosure,Ownership check on every read,V-002,Service owner,Proposed,Other access paths not yet assessed
+T-002,Synthetic worker job,Queue to worker,Repeated poison job,Resource exhaustion,Bound retries and isolate rejected work,V-003,Operations owner,Proposed,Isolation and alert path require testing
