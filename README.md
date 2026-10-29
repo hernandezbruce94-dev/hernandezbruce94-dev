@@ -12,6 +12,8 @@ I write about turning security requirements into working controls—and keeping 
 
 These are collaboratively drafted educational designs and synthetic demonstrations; implementation status and authorship context are documented in the portfolio.
 
+**New: [Access Boundary Lab](portfolio/labs/access-boundary/README.md).** A free offline browser lab: change a request, inspect tenant/action/expiry boundaries, and distinguish modeled decisions from evidence. Includes regression tests, a threat model, and interview challenge cards.
+
 ## Start with a working question
 
 | If you want to… | Start here |

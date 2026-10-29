@@ -5,6 +5,10 @@ Practical design studies, verification plans, and reusable artifacts curated for
 
 **Start here:** [Architecture case study](case-studies/document-processing-service.md) · [Runnable offline tool](tools/README.md) · [Interview walkthrough](interviews/walkthrough.md)
 
+## Try an interactive lab
+
+**[Access Boundary Lab](labs/access-boundary/README.md)** — an offline browser demo with explainable authorization decisions, eight challenge scenarios, a regression matrix, synthetic evidence export, a threat model, and interview challenge cards. Change tenant, identity, action or expiry and explain the result. Download the folder to run it; GitHub's file view does not execute the HTML. No cloud or paid tools required. This is a locally tested educational model, not a deployed control.
+
 ## Evidence and authorship
 
 This collection was collaboratively drafted with AI assistance on October 29, 2026. The scenarios and proposed project concepts are educational designs, not claims of Bruce's prior employment, independent invention, customer work, or production deployments. They are offered for review, adaptation, and discussion.

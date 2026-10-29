@@ -1,0 +1,23 @@
+Access Boundary Lab — local validation, October 29, 2026
+Runtime: Node.js v24.15.0 on Bruce's Windows workspace.
+Command: node --test engine.test.cjs
+Observed: 21 tests passed, 0 failed, 0 skipped.
+
+Coverage: eight fixed allow/deny scenarios; exclusive expiry immediately before/at/after;
+role and tenant boundaries; boolean authentication; unknown identifiers/actions and
+prototype-property names; malformed requests; invalid/timezone-free/impossible dates;
+cross-product deny invariants; missing, matching and conflicting synthetic evidence;
+unknown evidence states; deterministic evaluation without input mutation.
+
+Browser checks: rendered the local page through a temporary loopback-only preview.
+Selected Reviewer crosses tenant: DENY / INCONCLUSIVE.
+Selected synthetic ALLOW and evaluated: DENY / MISMATCH.
+Downloaded JSON: kind educational-simulation, modelVersion1.0, user cara,
+resource doc-101, cross-tenant DENY and MISMATCH preserved.
+Reset restored Alice/doc-101/read ALLOW with missing-evidence INCONCLUSIVE.
+Desktop controls and text visually reviewed; full-page PNG saved as preview.png.
+
+No real identity provider, tenant, document service, cloud, scanner, or production
+control was exercised. No performance, mobile-device, assistive-technology, or
+comprehensive security audit is claimed. A matching synthetic case does not prove
+live authorization enforcement. The temporary preview is not public hosting.
