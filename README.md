@@ -37,6 +37,10 @@ Author of **Cybersecurity Engineering in Practice** and **Security Controls in P
 
 [Explore the books](https://sites.google.com/view/bruce-l-hernandez-books/home?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=readme_books) · [Free Security Control Verification Checklist](https://sites.google.com/view/bruce-l-hernandez-books/free-security-checklist?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=readme_checklist)
 
+## Side projects
+
+**[Math Heroes: Save the City](https://github.com/hernandezbruce94-dev/math-heroes)**: a free, superhero-themed first-grade math game I built for my son. Pick a hero and solve addition, subtraction, and missing-number problems to defeat Dr. Minus. Includes counting-dot hints and read-aloud support, and it runs in any browser with no accounts or data collection. [Play it here](https://superhero-math.pplx.app).
+
 ## Connect and contribute
 
 [LinkedIn](https://www.linkedin.com/in/bruce-hernandez-master-of-cyber-operations/) · [YouTube](https://www.youtube.com/@brucehernandez1136) · [DEV tutorial: test the decision, not just the error](https://dev.to/bruce_hernandez_e4218d514/a-failed-request-is-not-proof-of-blocking-test-the-decision-not-just-the-error-1i2)
