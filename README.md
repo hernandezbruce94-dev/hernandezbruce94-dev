@@ -39,7 +39,7 @@ Author of **Cybersecurity Engineering in Practice** and **Security Controls in P
 
 ## Side projects
 
-**[Math Heroes: Save the City](https://github.com/hernandezbruce94-dev/math-heroes)**: a free, superhero-themed first-grade learning game I built for my son. Kids pick a hero and defeat villains by solving math problems, reading sight words, spelling picture words, and explaining the water cycle. Includes hints, read-aloud support, Super Mode, and boss rounds, and it runs in any browser with no accounts or data collection. [Play it here](https://superhero-math.pplx.app).
+**[Math Heroes: Save the City](https://github.com/hernandezbruce94-dev/math-heroes)**: a free, superhero-themed first-grade learning game I built for my son. Kids defeat villains with math (adding, time, coins, shapes, skip counting, and more), reading comic stories, spelling, sentence building, letter tracing, and the water cycle. It has a recorded hero voice, a daily mission with streaks and spaced review, story cutscenes, a sidekick pet, 2-player mode, multiple kid profiles, a grown-up area, and optional sync across devices. No accounts or ads. [Play it here](https://superhero-math.pplx.app).
 
 ## Connect and contribute
 
